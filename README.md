@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Blake</h1>
 <h3 align="center">A passionate Dev from the U.K</h3>
 
-- 🔭 I’m currently working on [Crypto Trading Bot](https://github.com/2003jblake/Trading-Bot)
+- 🔭 I’m currently working on [Crypto Trading Bot](https://github.com/2003jblake/White-Nebula)
 
 - 🌱 I’m currently learning **Python, Django, REST APIs, GIT**
 
