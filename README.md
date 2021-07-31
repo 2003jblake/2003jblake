@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Crypto Trading Bot](https://github.com/2003jblake/Trading-Bot)
 
-- 🌱 I’m currently learning **Focused development on: Python, Django, REST APIs, GIT**
+- 🌱 I’m currently learning **Python, Django, REST APIs, GIT**
 
-- 📚Currently reading [Rocket Propulsion Elements, Quantum Computing: An Applied Approach](Rocket Propulsion Elements, Quantum Computing: An Applied Approach)
+- 📚Currently reading **Rocket Propulsion Elements, Quantum Computing: An Applied Approach**
 
-- 🔮Future goals [Software development work. Work in the space engineering sector such as for ESA](Software development work. Work in the space engineering sector such as for ESA)
+- 🔮Future goals **Software development work. Work in the space engineering sector such as for ESA)**
 
 - 📫 How to reach me **Discord: BLAK3#4929**
 
