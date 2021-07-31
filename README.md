@@ -7,7 +7,7 @@
 
 - 📚Currently reading **Rocket Propulsion Elements, Quantum Computing: An Applied Approach**
 
-- 🔮Future goals **Software development work. Work in the space engineering sector such as for ESA)**
+- 🔮Future goals **Software development work. Work in the space engineering sector such as for ESA**
 
 - 📫 How to reach me **Discord: BLAK3#4929**
 
