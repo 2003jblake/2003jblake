@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Blake</h1>
 <h3 align="center">A passionate Dev from the U.K</h3>
 
-- 👨‍🎓 I'm currently studying **Computer Science at Univirsity of Exeter**
+- 👨‍🎓 I'm currently studying **Computer Science at University of Exeter**
 
 - 🔭 I’m currently working on [White-Nebula: A Crypto Trading Bot](https://github.com/2003jblake/White-Nebula)
 
