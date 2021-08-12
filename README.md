@@ -11,6 +11,8 @@
 
 - 🔮Future goals **Software development work. Work in the space engineering sector such as for ESA**
 
+- 🧗‍♂️Hobbies **Math, Astronomy, Space Engineering and drummer in a band: https://linktr.ee/pentirebandofficial**
+
 - 📫 How to reach me **Discord: BLAK3#4929**
 
 
