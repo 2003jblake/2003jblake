@@ -3,8 +3,6 @@
 
 - 👨‍🎓 I'm currently studying **Computer Science at University of Exeter**
 
-- 🔭 I’m currently working on [White-Nebula: A Crypto Trading Bot](https://github.com/2003jblake/White-Nebula)
-
 - 🌱 I’m currently learning **Python, Django, REST APIs, GIT**
 
 - 📚 Currently reading **Rocket Propulsion Elements, Quantum Computing: An Applied Approach**
