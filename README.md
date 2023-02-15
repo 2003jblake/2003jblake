@@ -3,11 +3,9 @@
 
 - 👨‍🎓 I'm currently studying **Computer Science at University of Exeter**
 
-- 🌱 I’m currently learning **Python, Django, REST APIs, GIT**
+- 🌱 I’m currently learning **Machine Learning techniques, Quantum Computing Algorithms**
 
 - 📚 Currently reading **Rocket Propulsion Elements, Quantum Computing: An Applied Approach**
-
-- 🔮 Future goals **Software development work. Work in the space engineering sector such as for ESA**
 
 - 🧗‍♂️ Hobbies **Math, Astronomy, Space Engineering and drummer in a band: https://linktr.ee/pentirebandofficial**
 
