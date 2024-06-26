@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Blake</h1>
-<h3 align="center">A passionate Dev from the U.K</h3>
+<h3 align="center">A passionate computational scientist from the U.K</h3>
 
-- 👨‍🎓 I'm currently studying **Computer Science at University of Exeter**
+- 👨‍🎓 I'm currently studying **Quantum Information Science and Technology CDT/PHD @ University of Bristol**
 
 - 🌱 I’m currently learning **Machine Learning techniques, Quantum Computing Algorithms**
 
